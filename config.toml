@@ -1,4 +1,4 @@
-baseURL = "https://airdb.dev/en"
+baseURL = "https://airdb.dev/lang"
 languageCode = "en-us"
 title = "airdb"
 theme = "book"
@@ -80,7 +80,7 @@ disablePathToLower = true
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo = 'https://github.com/airdb/interview'
+  BookRepo = 'https://github.com/airdb/lang'
 
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
