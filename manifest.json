@@ -1,14 +1,14 @@
 {
   "name": "airdb",
   "short_name": "airdb",
-  "start_url": "/en/",
-  "scope": "/en/",
+  "start_url": "/lang/",
+  "scope": "/lang/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/en/favicon.svg",
+      "src": "/lang/favicon.svg",
       "sizes": "512x512"
     }
   ]
