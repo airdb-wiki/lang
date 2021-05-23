@@ -1,7 +1,7 @@
 ---
 bookCollapseSection: true
-weight: 20
-title: 学习笔记
+weight: 10
+title: 工作使用
 ---
 
 # 常用短语

@@ -1,8 +1,5 @@
 ---
 bookCollapseSection: true
-weight: 10
+weight: 20
 ---
 
-# 开发手册
-
-这是开发手册
