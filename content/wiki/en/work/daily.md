@@ -1,6 +1,16 @@
 # 日常工作
 
 
+## 技术相关
+
+### 处境
+
+### 发生故障
+
+### 问题回溯
+ - why suddenly encountered "too many connection issue"?
+
+
 ## 状态 Present Simple and Continuous
 
 1. We need to wait. I do not know how long. 
