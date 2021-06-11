@@ -112,3 +112,16 @@ In your breakout rooms, practice reporting a problem to your partner. Be sure to
 Use some of the given verbs - and correctly use either gerund or infinitive after those verbs
 Use Active Listening - ask follow-up questions
 
+
+
+# Section week 4B
+
+## Suggestions/Advice
+
+What ‘culture shock’ did you experience?
+
+How are you settling in?
+
+Is that worth getting?
+
+### 
