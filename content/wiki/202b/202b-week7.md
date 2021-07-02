@@ -181,3 +181,47 @@ Gwen is an excellent public speaker. She is able to organize her ideas well and 
 
 
 Pui says yes or no without taking a very long time. 
+
+
+### Interview CDD with polite ways
+
+
+Could you tell me...?
+Would you mind telling me...?
+Is it OK to ask...?
+May I ask you...?
+I hope you don’t mind me asking...
+Can I ask about…?
+
+
+Exercise 2:
+A. Complete the following sentences with the words below (you may need to change the word form). There are some words you don’t need to use.
+
+patience
+flexible
+dedication
+punctual
+straightforward
+motivated
+meticulous
+stubborn
+outgoing
+versatile
+easygoing
+confident
+
+
+Example:  Punctuality   is one of my strong points - I’m never late for anything. 
+
+I have an  easygoing    relationship with my manager. We chat informally and check in with each other all the time without having to schedule meetings.
+It’s important for me to have some  flexiablity  in my working hours.
+I think every team should have someone who is very  outgoing   , who makes the atmosphere more energetic and friendly.
+When I hire I look for someone who has  versatile     skills so they can handle many different technical situations.
+I have a great deal of  confidence    in how my team is run and its success, because they know what they’re doing and they’ve produced good results before.
+My team’s   motivations    to work is very high - everyone is enthusiastic and driven.
+My company is  dedicate    to its employees and puts their needs before those of the customers.
+I prefer a boss who is   straightforward    and tells me very directly whether something is good or not. There’s no need to be ‘nice’ or polite about it.
+
+B. Now tell your partner if these sentences are true for you or not. Make sure you repeat the whole sentence when you’re telling each other.
+
+Example: Punctuality is not one of my strong points - I’m usually about at least 2 minutes late to everything. 
