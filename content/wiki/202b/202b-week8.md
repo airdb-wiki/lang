@@ -85,3 +85,9 @@ The manager and employee will look for ways to resolve the issues. Use the phras
 | Not being punctual at work (especially leaving early) | Has been coming in at 10:45 am and leaving at 5:30 pm |
 | Being late for meetings | Regularly shows up 10 minutes late for meetings. |
 | Not meeting deadlines | Has been submitting assignments 2 days late or longer without notice. |
+
+## Section B
+
+Using adverb caluses 
+
+We use adverb 
