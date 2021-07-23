@@ -5,10 +5,13 @@ title: 主持周会
 # 日常晨会
 ## 1. 开头
 
+Can we start or wait for few minitues?
+
 Ok, Let's get started.
 
 ## 项目进度
 
+the next one is from XXX
 
 To look forward to / to be looking forward to – 期待
 你可以用这个片语来表示对后续的发展感到期待，这是一个很好的表达方式来展现出你与合作伙伴共事的浓厚兴趣。这个片语有一个小地方要特别注意，最后面的＂to＂是介系词，所以后面要接名词或是动名词（N / V+ing），例如：
