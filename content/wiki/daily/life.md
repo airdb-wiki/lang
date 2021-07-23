@@ -7,3 +7,7 @@
 - current: 现金
 - School fee: 学费
 - Saving: 存款
+
+# 日常用品
+
+- tissue: 纸巾
