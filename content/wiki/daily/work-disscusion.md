@@ -19,3 +19,15 @@ As I mention, XXX
 
 Unbalance Instances: 不均衡的实例
 drop or delay the requests: diu
+
+cap at 1000 QPS: 容量是 ...
+encounter: 遭遇某种某种故障
+
+
+## 软件开发
+
+feasibility: 可行性
+availability: 可用性
+accuracy: 准确性
+stability: 稳定性
+credibility: 可信度
