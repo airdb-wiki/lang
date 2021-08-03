@@ -22,6 +22,10 @@ drop or delay the requests: diu
 
 cap at 1000 QPS: 容量是 ...
 encounter: 遭遇某种某种故障
+be deemed as: 被视为
+
+what is the reason for network being deemed as external?
+
 
 
 ## 软件开发
