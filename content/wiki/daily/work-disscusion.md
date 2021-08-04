@@ -14,6 +14,23 @@ As spoken previously, XXX
 
 As I mention, XXX
 
+It’s hard to say exactly
+
+## 安排时间
+
+I have scheduled you to
+
+Here is a link to
+
+The project was delayed
+
+there were other higher priority deadlines.
+
+The project was delayed because there were other higher priority deadlines.
+
+We invited the government ministers
+
+
 
 ## 技术问题
 
@@ -26,6 +43,8 @@ be deemed as: 被视为
 
 what is the reason for network being deemed as external?
 
+clarification: 澄清
+Actually just to clarify: 澄清
 
 
 ## 软件开发

@@ -11,3 +11,12 @@
 # 日常用品
 
 - tissue: 纸巾
+
+
+# 搬运货物
+Packing materials: 打包材料
+Vehicles and personnel needed: 所需车辆及人员
+Cost of transport: 运输成本
+Cost of packing materials: 打包成本
+
+Eight men and two trucks for one day
