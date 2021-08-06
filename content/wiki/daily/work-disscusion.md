@@ -47,6 +47,11 @@ clarification: 澄清
 Actually just to clarify: 澄清
 
 
+## 效率
+
+effectively = produce good results
+efficiently = do thing in a short time or with less effort
+
 ## 软件开发
 
 feasibility: 可行性
