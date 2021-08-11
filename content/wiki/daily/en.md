@@ -2,8 +2,7 @@
 title: 句式和符号
 ---
 
-
-punctuation - 标点符号
+## punctuation - 标点符号
 - full stop/ period: 句号
 - Comma: 逗号
 - Colon: 冒号
@@ -13,3 +12,9 @@ punctuation - 标点符号
 - Dash/hyphen: 破折号
 - Round Brackets: 圆括号
 - Square Brackets: 方括号
+
+
+
+## Link words
+
+particularly: 异乎寻常地；特别是；明确地

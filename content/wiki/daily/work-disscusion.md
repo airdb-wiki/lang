@@ -18,6 +18,8 @@ It’s hard to say exactly
 
 ## 安排时间
 
+TBC:  to be confirmed
+
 I have scheduled you to
 
 Here is a link to
@@ -45,6 +47,11 @@ what is the reason for network being deemed as external?
 
 clarification: 澄清
 Actually just to clarify: 澄清
+
+in a single day exceeded 100,000 across SG:  在SG 单日超过100k
+entering the fourth wave of upsurge: 进入第四波高潮
+
+Ah yeah, it is reflected in XX as well.
 
 
 ## 效率

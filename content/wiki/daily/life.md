@@ -8,9 +8,15 @@
 - School fee: 学费
 - Saving: 存款
 
-# 日常用品
+## 日常用品
 
 - tissue: 纸巾
+
+
+## 吃
+
+inedibly: 不可食用
+chili: 辣椒
 
 
 # 搬运货物
@@ -29,3 +35,19 @@ Do you have a lot of stress in your life?
 
 ## 开玩笑
 robbed bank: 抢银行
+cyber violence: 网络暴力
+
+
+## 道理
+deserve: 值得
+everything deserves to be loved
+Zaza and her country deserves better and happier future.
+
+
+life up to now : 生活到现在
+
+
+## 学历
+
+Undergraduate university / degree
+Post-graduate university / degree
