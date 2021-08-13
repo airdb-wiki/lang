@@ -16,6 +16,9 @@ As I mention, XXX
 
 It’s hard to say exactly
 
+## 请求
+
+seek your approval
 ## 安排时间
 
 TBC:  to be confirmed
@@ -52,6 +55,8 @@ in a single day exceeded 100,000 across SG:  在SG 单日超过100k
 entering the fourth wave of upsurge: 进入第四波高潮
 
 Ah yeah, it is reflected in XX as well.
+
+if I change inside the container, then run docker restart, is it sufficient?
 
 
 ## 效率
